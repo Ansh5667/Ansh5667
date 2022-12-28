@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ansh5667
+- 👋 Hi, I’m Anshuman
 - 👀 I’m interested in Machine Learning/Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning/Data Science Projects

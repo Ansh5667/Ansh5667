@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Anshuman
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Machine Learning or Data Science Projects
+- 👋 Hi, I’m Anshuman, I’m an electronics undergraduate student and I’m currently learning Data Science.
+ I’m looking to collaborate on Data Science and AI Projects
 - 📫 Gmail: Anshuman5667@gmail.com
 
 <!---
